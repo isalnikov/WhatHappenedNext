@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.example</groupId>
-    <artifactId>ai-web-agent-bot</artifactId>
+    <groupId>com.whathappenednext</groupId>
+    <artifactId>WhatHappenedNext</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>AI Web Agent Bot</name>
+    <name>WhatHappenedNext</name>
     <description>Intelligent AI Web Agent Telegram Bot using Java 25, Spring Boot 4, and Qwen CLI</description>
 
     <parent>
